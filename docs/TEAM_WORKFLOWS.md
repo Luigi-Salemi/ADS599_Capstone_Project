@@ -6,7 +6,7 @@ Use this document for Section (B) of the Project Proposal Form.
 
 ### Team GitHub Link
 
-https://github.com/YOUR_USERNAME/ADS599_Capstone_Project
+https://github.com/Luigi-Salemi/ADS599_Capstone_Project
 
 ### Meeting Cadence During Module 1
 

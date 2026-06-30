@@ -6,8 +6,7 @@
 
 **Team Members:**
 
-- Name 1 (@github-handle)
-- Name 2 (@github-handle)
+- Luigi Salemi (@Luigi-Salemi)
 
 **University:** University of San Diego — Applied Data Science Program  
 **Course:** ADS 599 — Capstone Project  
