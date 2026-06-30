@@ -9,8 +9,7 @@
 - Luigi Salemi (@Luigi-Salemi)
 
 **University:** University of San Diego — Applied Data Science Program  
-**Course:** ADS 599 — Capstone Project  
-**Semester:** Fall 2026
+**Course:** ADS 599 — Capstone Project
 
 ## Repository Structure
 
